@@ -1,0 +1,19 @@
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\bin\Debug\Pokemon Battle Sim.exe.config
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\bin\Debug\Pokemon Battle Sim.exe
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\bin\Debug\Pokemon Battle Sim.pdb
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon_Battle_Sim.Form1.resources
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon_Battle_Sim.Properties.Resources.resources
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.csproj.GenerateResource.cache
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.exe
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Documents\Visual Studio 2019\Project\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.pdb
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\bin\Debug\Pokemon Battle Sim.exe.config
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\bin\Debug\Pokemon Battle Sim.exe
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\bin\Debug\Pokemon Battle Sim.pdb
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon_Battle_Sim.Form1.resources
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon_Battle_Sim.Properties.Resources.resources
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.csproj.GenerateResource.cache
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.exe
+\\GMRDC1\Folder Redirection\Daniel.Kaminsky\Desktop\Projects\Projects\Pokemon Battle Sim\Pokemon Battle Sim\obj\Debug\Pokemon Battle Sim.pdb
